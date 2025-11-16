@@ -1,0 +1,28 @@
+{
+  "name": "ossint",
+  "version": "1.0.0",
+  "description": "Tool Ossint yang dikembangkan oleh Mr. ttti",
+  "main": "ossint.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mr. ttti",
+  "license": "ISC",
+  "dependencies": {
+    "@ssecd/jkn": "^0.8.0",
+    "axios": "^1.13.2",
+    "chalk": "^4.1.2",
+    "colors": "^1.4.0",
+    "crypto": "^1.0.1",
+    "crypto-js": "^4.2.0",
+    "dayjs": "^1.11.19",
+    "figlet": "^1.8.2",
+    "gradient-string": "^3.0.0",
+    "inquirer": "^8.2.5",
+    "node-telegram-bot-api": "^0.66.0",
+    "ora": "^5.4.1",
+    "p-limit": "^2.3.0",
+    "parsenik": "^1.0.3",
+    "prompt-sync": "^4.2.0"
+  }
+}
